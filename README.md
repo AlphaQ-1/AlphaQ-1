@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rishit Mavani</h1>
+<h1 align="center">Hi 👋, I'm Ninad Shendkar</h1>
 
 
 
-- 🌱 I am pursuing a Bachelor's degree in **Electrical engineering and Information Technology** at Hochshule Ravensburg-Weingarten, Deutschland.
+- 🌱 I am pursuing a Bachelor's degree in **Physical Engineering (Technische entwicklung)** at Hochshule Ravensburg-Weingarten, Deutschland.
  
 - 🔭 My own voice-command bot [DreamnoidAIbot](https://github.com/rishitmavani/DreamnoidAIbot)
 - 🔭 Final year project of Diploma Engineering [Apocalypse: The end of evil](https://github.com/rishitmavani/Apocalypse-The_end_of_evil)
